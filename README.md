@@ -23,6 +23,9 @@ $ cd GetInfoFromURL
 
 # Install the requirements
 $ python3 -m pip install -r requirements.txt
+
+# If you get an error try:
+$ python -m pip install -r requirements.txt
 ```
 
 ## Usage
