@@ -1,3 +1,16 @@
+## Information
+```console
+# This program will provide you with the:
+-Ip Address
+-City
+-Region
+-Country
+-Latitude
+-Longitude
+```
+
+
+
 ## Installation
 
 ```console
