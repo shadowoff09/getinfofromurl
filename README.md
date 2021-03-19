@@ -1,13 +1,13 @@
 ## Installation
 
 ```console
-# clone the repo
+# Clone the repo
 $ git clone https://github.com/shadowoff09/GetInfoFromUrl.git
 
-# change the working directory to the generator
+# Change the working directory to the generator
 $ cd GetInfoFromURL
 
-# install the requirements
+# Install the requirements
 $ python3 -m pip install -r requirements.txt
 ```
 
