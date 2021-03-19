@@ -18,7 +18,7 @@
 # Clone the repo
 $ git clone https://github.com/shadowoff09/GetInfoFromUrl.git
 
-# Change the working directory to the generator
+# Change the working directory to GetInfoFromURL
 $ cd GetInfoFromURL
 
 # Install the requirements
