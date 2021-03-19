@@ -33,6 +33,9 @@ $ python -m pip install -r requirements.txt
 ```console
 $ cd GetInfoFromUrl
 $ python3 main.py
+
+# If you get an error try:
+$ python main.py
 ```
 
 
