@@ -11,13 +11,17 @@ class color:
 	Default  = "\033[39m"
 	Yellow   = "\033[33m"
 
-    
 
 os.system('cls' if os.name == 'nt' else 'clear')
 
 url = input("\nInsert a URL: ")
 IP = socket.gethostbyname(url)
 response = DbIpCity.get(IP, api_key='free')
+
+time.sleep(.100)
+
+print(f'Gathering information from {url} ...')
+
 time.sleep(1)
 
 print(f'\n{color.Yellow}IP{color.Default}: ', IP)
