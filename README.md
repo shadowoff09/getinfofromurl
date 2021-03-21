@@ -38,4 +38,8 @@ $ python3 main.py
 $ python main.py
 ```
 
-
+##Details
+```
+Currently working on an .exe
+Soon it will be released ...
+```
