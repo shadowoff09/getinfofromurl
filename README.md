@@ -38,7 +38,7 @@ $ python3 main.py
 $ python main.py
 ```
 
-##Details
+## Details
 ```
 Currently working on an .exe
 Soon it will be released ...
